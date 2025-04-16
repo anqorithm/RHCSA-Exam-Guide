@@ -4,6 +4,41 @@
   <img src="assets/red-hat.svg" width="400" alt="Red Hat Logo">
 </p>
 
+## Table of Contents
+
+- [What is this certification?](#what-is-this-certification)
+- [Exam Information](#exam-information)
+- [Exam Environment](#exam-environment)
+- [Questions and Solutions](#questions-and-solutions)
+  - [Node 1](#node-1)
+    - [Q1: Network Configuration](#q1-network-configuration)
+    - [Q2: Configure Repository](#q2-configure-repository)
+    - [Q3: Debug SELinux](#q3-debug-selinux)
+    - [Q4: Cron Job](#q4-cron-job)
+    - [Q5: Create User accounts with supplementary group](#q5-create-user-accounts-with-supplementary-group)
+    - [Q6: Create a collaborative DIR](#q6-create-a-collaborative-dir)
+    - [Q7: Configure NTP](#q7-configure-ntp)
+    - [Q8: Configure AutoFS](#q8-configure-autofs)
+    - [Q9: Create user with specific UID](#q9-create-user-with-specific-uid)
+    - [Q10: Create an archive](#q10-create-an-archive)
+    - [Q11: Find and copy files](#q11-find-and-copy-files)
+    - [Q12: Find string and save to file](#q12-find-string-and-save-to-file)
+    - [Q13: Create a container image](#q13-create-a-container-image)
+    - [Q14: Container configuration](#q14-container-configuration)
+  - [Node 2](#node-2)
+    - [Q15: Break node 2 password](#q15-break-node-2-password)
+    - [Q16: Configure yum repository](#q16-configure-yum-repository)
+    - [Q17: Swap partition](#q17-swap-partition)
+    - [Q18: Create a Logical Volume and mount it permanently](#q18-create-a-logical-volume-and-mount-it-permanently)
+    - [Q19: Resize the logical volume](#q19-resize-the-logical-volume)
+    - [Q20: Configure System Tuning](#q20-configure-system-tuning)
+  - [Extra Questions](#extra-questions)
+    - [Extra Q1: Make a Simple script](#extra-q1-make-a-simple-script)
+    - [Extra Q2: Expire password](#extra-q2-expire-password)
+    - [Extra Q3: Configure application](#extra-q3-configure-application)
+    - [Extra Q4: Sudo privileges](#extra-q4-sudo-privileges)
+    - [Extra Q5: ACL](#extra-q5-acl)
+
 ## What is this certification?
 
 The RHCSA (Red Hat Certified System Administrator) certification is a strong reference for professionals working in the Linux operating system field. This exam provides a comprehensive assessment of an individual's skills in managing systems running Red Hat Enterprise Linux.
