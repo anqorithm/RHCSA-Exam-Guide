@@ -1,4 +1,8 @@
-# RHCSA Exam Guide
+# RHCSA Exam Guide - EX200
+
+<p align="center">
+  <img src="assets/red-hat.svg" width="400" alt="Red Hat Logo">
+</p>
 
 ## What is this certification?
 
@@ -31,8 +35,7 @@ The exam environment will have these options:
 - Third option: Opens a terminal for the workstation where you can connect via SSH to the first or second node for easier copy and paste
 
 **Note:** For each service you configure, follow these steps:
-```
-systemctl start [service]
+```systemctl start [service]
 systemctl enable [service]
 [Configure the service]
 systemctl restart [service]
